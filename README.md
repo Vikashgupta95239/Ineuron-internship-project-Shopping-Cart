@@ -1,4 +1,52 @@
+# _iNeuron Internship Project: Shopping Cart_
+
+
+
+![image](https://github.com/Vikashgupta95239/Ineuron-internship-project-Shopping-Cart/assets/111170423/f00c47ae-d9e3-4029-a4e4-5747f137563a)
+
+
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f694e6575726f6e2d3541313645303f7374796c653d666f722d7468652d6261646765](https://github.com/Vikashgupta95239/Ineuron-internship-project-Shopping-Cart/assets/111170423/a0889491-ac04-4fc1-81e4-706f067642f3)
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f694e6575726f6e253230496e7465726e736869702d3541313645303f7374796c653d666f722d7468652d6261646765](https://github.com/Vikashgupta95239/Ineuron-internship-project-Shopping-Cart/assets/111170423/4b1129e8-5aa6-4627-88e9-9d889e342cd7)
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506172742532306f6625323046756c6c253230537461636b2532304a617661736372697074253230576562253230446576656c6f706572253230426f6f7463616d702d3541313645303f7374796c653d666f722d7468652d6261646765](https://github.com/Vikashgupta95239/Ineuron-internship-project-Shopping-Cart/assets/111170423/bad40d45-c739-44a5-bedf-de2eb680d0a1)
+
+
+## _Teachers_
+[![](https://img.shields.io/badge/Hitesh%20Choudhary%20Sir-5A16E0?style=for-the-badge)]() [![](https://img.shields.io/badge/Anurag%20Tiwari%20Sir-5A16E0?style=for-the-badge)]()
+
+## _Technology Used_
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163746a732d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c7565](https://github.com/Vikashgupta95239/Ineuron-internship-project-Shopping-Cart/assets/111170423/d16390d6-e92f-4b0f-8dc0-196819a64e72)
+
+## _High Level Design_
+[Click Here](https://github.com/Vikashgupta95239/Ineuron-internship-project-Shopping-Cart/files/11727859/HLD.pdf)
+
+## _LOW Level Design_
+[Click Here](https://github.com/Vikashgupta95239/Ineuron-internship-project-Shopping-Cart/files/11727863/LLD.pdf)
+
+
+## _Architecture_ 
+[[Click Here]](https://github.com/Vikashgupta95239/Ineuron-internship-project-Shopping-Cart/files/11728031/Arichitecture.pdf)
+
+
+## _Wireframe_
+
+[Click Here](https://github.com/Vikashgupta95239/Ineuron-internship-project-Shopping-Cart/files/11727964/WIREFRAME.pptx)
+
+## _Project code_
+
+## _Detailed Project Report_
+
+[Click Here](https://github.com/Vikashgupta95239/Ineuron-internship-project-Shopping-Cart/files/11727748/Presentation1.1.pdf)
+
+
+
+
+
+
+
+
+
 <<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
