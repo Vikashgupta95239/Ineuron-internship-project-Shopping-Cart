@@ -38,21 +38,12 @@
 
 [Click Here](https://github.com/Vikashgupta95239/Ineuron-internship-project-Shopping-Cart/files/11727748/Presentation1.1.pdf)
 
-##_Live Running_
+## _Live Running_
  [click here ](http://localhost:3000)
  
- ##_Demo Video_
+ ## _Demo Video_
  
  
-
-
-
-
-
-
-
-
-
 <<<<<<< HEAD
 
 # Getting Started with Create React App
