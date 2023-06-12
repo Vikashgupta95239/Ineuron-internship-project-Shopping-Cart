@@ -32,10 +32,18 @@
 [Click Here](https://github.com/Vikashgupta95239/Ineuron-internship-project-Shopping-Cart/files/11727964/WIREFRAME.pptx)
 
 ## _Project code_
+[Click Here](https://github.com/Vikashgupta95239/Ineuron-internship-project-Shopping-Cart/files/11728071/WIREFRAME.pptx)
 
 ## _Detailed Project Report_
 
 [Click Here](https://github.com/Vikashgupta95239/Ineuron-internship-project-Shopping-Cart/files/11727748/Presentation1.1.pdf)
+
+##_Live Running_
+ [click here ](http://localhost:3000)
+ 
+ ##_Demo Video_
+ 
+ 
 
 
 
