@@ -41,10 +41,31 @@
 ## _Live Running_
  [click here ](http://localhost:3000)
  
- ## _Demo Video_
- https://clipchamp.com/watch/aKcL7yU2CAJ
- 
+ ## _Demo Video_[click here ] https://clipchamp.com/watch/aKcL7yU2CAJ
+
+##_The project LinkedIn a post_
+
+
+
+'Screenshots'
+
+
+
+![Screenshot 2023-06-09 183222](https://github.com/Vikashgupta95239/Ineuron-internship-project-Shopping-Cart/assets/111170423/9892aa31-3598-411b-8a6d-18b3e4ecc283)
+
+ ![Screenshot 2023-06-09 183252](https://github.com/Vikashgupta95239/Ineuron-internship-project-Shopping-Cart/assets/111170423/5f686496-ccfa-4753-8407-fee6912f0c53)
+
+
+
+
+![Screenshot 2023-06-09 194319](https://github.com/Vikashgupta95239/Ineuron-internship-project-Shopping-Cart/assets/111170423/1ae66351-21b1-4dcb-a0ef-1cdcd4dc4ce1)
+
+
+
+![Screenshot 2023-06-09 193827](https://github.com/Vikashgupta95239/Ineuron-internship-project-Shopping-Cart/assets/111170423/4c49c37b-4966-4203-8f8f-c81151a3882d)
+
 <<<<<<< HEAD
+
 
 # Getting Started with Create React App
 
@@ -115,8 +136,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
+      
 # Ineuron-internship-project-Shopping-Cart
  Create a simple frontend where there are a couple of products and upon clicking on add to cart button the item should be added to the cart and the user can see the items added to the cart on the cart page.
 >>>>>>> origin/main
